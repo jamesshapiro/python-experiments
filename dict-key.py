@@ -7,6 +7,9 @@ Experiment to remind myself that Python uses "==" rather than "is"
 when comparing keys in a dictionary.
 
 Output:
+first_cat == second_cat? True!
+first_cat is second_cat? False!
+American Shorthair
 """
 
 first_cat = "c" + "at"
